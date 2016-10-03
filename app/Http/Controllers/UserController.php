@@ -20,6 +20,7 @@ use sortable;
 
 use Response;
 
+// This is a usere controller
 class UserController extends Controller
 {
     public function create()
